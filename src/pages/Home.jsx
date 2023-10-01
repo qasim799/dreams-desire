@@ -38,7 +38,7 @@ const Home = () => {
   }
   return (
     <>
-    <h1 className=' text-5xl font-bold text-center mt-10'>Jawad ka Kotha</h1>
+    <h1 className=' text-5xl font-bold text-center mt-10'>Enable VPN</h1>
     <div className=' w-screen justify-center items-center flex gap-2 mt-10 mb-10'>
       <input type="text" onChange={(e) => setSearch(e.target.value)} />
       <button onClick={handleSubmit}	 className='btn btn-secondary'>

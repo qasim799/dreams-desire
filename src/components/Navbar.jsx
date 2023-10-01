@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <header className=" w-full bg-base-300 p-5 items-center flex justify-between">
       <main>
-        <span></span>
+        <span>Jawad Ka Kotha</span>
       </main>
       <ul className=" flex gap-4">
         <Link>Contact</Link>
